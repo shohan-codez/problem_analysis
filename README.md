@@ -13,8 +13,8 @@ Every problem analysis includes:
 - **Explanation** — full solution in plain words, no code
 
 ## Problems
-| Problem                                  | Difficulty | Tags                             | Key Insight                                                                        |
-| ---------------------------------------- | ---------- | -------------------------------- | ---------------------------------------------------------------------------------- |
-| [Cyclists](problem_analysis/Cyclists.md) | 1100       | `#greedy` `#math` `#observation` | After first play, cycle cost is fixed — just divide remaining budget by cycle cost |
+| Problem                 | Difficulty | Tags                             | Key Insight                                                                        |
+| ----------------------- | ---------- | -------------------------------- | ---------------------------------------------------------------------------------- |
+| [Cyclists](Cyclists.md) | 1100       | `#greedy` `#math` `#observation` | After first play, cycle cost is fixed — just divide remaining budget by cycle cost |
 
 
