@@ -2,7 +2,7 @@
 
 A collection of my competitive programming problem analyses.
 
-Each entry follows a structured format to build lasting mental mappings, not just solutions.
+Each entry follows a structured format to build lasting mental mapping. 
 
 ## Format
 Every problem analysis includes:
@@ -13,11 +13,8 @@ Every problem analysis includes:
 - **Explanation** — full solution in plain words, no code
 
 ## Problems
-| Problem | Difficulty | Tags | Key Insight |
-|---------|-----------|------|-------------|
-| [CF 2220B - OIE Excursion](problem_analysis/cf-2220B-oie-excursion.md) | 1100 | `#greedy` `#math` `#observation` | After first play, cycle cost is fixed — just divide remaining budget by cycle cost |
+| Problem                                  | Difficulty | Tags                             | Key Insight                                                                        |
+| ---------------------------------------- | ---------- | -------------------------------- | ---------------------------------------------------------------------------------- |
+| [Cyclists](problem_analysis/Cyclists.md) | 1100       | `#greedy` `#math` `#observation` | After first play, cycle cost is fixed — just divide remaining budget by cycle cost |
 
-## Why I do this
-Getting AC is not the finish line. Understanding *why* a solution works and *what signals it* is what actually builds problem solving ability over time.
 
-> "You build mental mappings in one way only — solving problems and deeply processing why the solution works."
