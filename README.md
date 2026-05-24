@@ -16,5 +16,7 @@ Every problem analysis includes:
 | Problem                 | Difficulty | Tags                             | Key Insight                                                                        |
 | ----------------------- | ---------- | -------------------------------- | ---------------------------------------------------------------------------------- |
 | [Cyclists](Cyclists.md) | 1100       | `#greedy` `#math` `#observation` | After first play, cycle cost is fixed — just divide remaining budget by cycle cost |
+| [[Stamina_and_Tasks]]   | 1300       | #DP                              | Come from backwards , simple dp bottom up.                                         |
+| [[Absolute_Cinema]]     | 800        | #math #greedy                    | always take the max, after swapping find the maxofa                                |
 
 

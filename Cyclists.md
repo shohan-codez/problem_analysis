@@ -41,7 +41,8 @@
 ---
 
 ## Dead Ends
-> ❌ **Attempt:** Used firstsum + secondsum + wincost as the cycle cost, divided m by it → **Why wrong:** firstsum is only paid once (first play), not every cycle. After first play, those cards cycle back into the pool so cycle cost is just cheapest n-k cards + wincost.
+> ❌ **Attempt:** Used firstsum + secondsum + wincost as the cycle cost, divided m by it 
+> → **Why wrong:** firstsum is only paid once (first play), not every cycle. After first play, those cards cycle back into the pool so cycle cost is just cheapest n-k cards + wincost.
 
 
 ---
