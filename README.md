@@ -20,7 +20,7 @@ Every problem analysis includes:
 | [Absolute_Cinema](Absolute_Cinema.md)       | 800        | #math #greedy                    | always take the max, after swapping find the maxofa                                |
 | [We_Be_Flippin_easy](We_Be_Flippin_easy.md) | 900        | #math #greedy                    | just find the position of the sign difference                                      |
 | [We_Be_Flippin_hard](We_Be_Flippin_hard.md) | 1300       | #constructive #greedy            | just find for which position you want to do the easy version                       |
-|                                             |            |                                  |                                                                                    |
+| [Digit_String](Digit_String.md)             | 1200       | #greedy #math                    | find the longest sequence that has 2 on the left and odd on the right              |
 |                                             |            |                                  |                                                                                    |
 
 
