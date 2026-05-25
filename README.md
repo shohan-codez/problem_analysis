@@ -21,7 +21,7 @@ Every problem analysis includes:
 | [We_Be_Flippin_easy](We_Be_Flippin_easy.md) | 900        | #math #greedy                    | just find the position of the sign difference                                      |
 | [We_Be_Flippin_hard](We_Be_Flippin_hard.md) | 1300       | #constructive #greedy            | just find for which position you want to do the easy version                       |
 | [Digit_String](Digit_String.md)             | 1200       | #greedy #math                    | find the longest sequence that has 2 on the left and odd on the right              |
-|                                             |            |                                  |                                                                                    |
+| [Find_the_Zero](Find_the_Zero.md)           | 1400       | #interactive #constructive       | Take the pair checking approach from the 2i+1,2i+2.                                |
 
 
  
