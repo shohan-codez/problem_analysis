@@ -27,6 +27,7 @@ Every problem analysis includes:
 | [Kanade's_Perfect_Multiples](Kanade's_Perfect_Multiples.md) | 1400       | #greedy #numbertheory            | sort the array , and see if the condition satisfies for each element or not .               |
 | [Array_and_Permutation](Array_and_Permutation.md)           | 1100       | #math                            | index of ai of permutation array should be less than index of ai+1 of the permutation array |
 | [Dice_Roll_Sequence](Dice_Roll_Sequence.md)                 | 1100       | #greedy #constructive            | just put 0 wherever the contradiction happens                                               |
+| [Addition_on_a_Segment](Addition_on_a_Segment.md)           | 1200       | #greedy #math                    | Find for which case we wont be able to do whole length operation.                           |
 
 
  
