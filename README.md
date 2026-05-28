@@ -28,6 +28,7 @@ Every problem analysis includes:
 | [Array_and_Permutation](Array_and_Permutation.md)           | 1100       | #math                            | index of ai of permutation array should be less than index of ai+1 of the permutation array |
 | [Dice_Roll_Sequence](Dice_Roll_Sequence.md)                 | 1100       | #greedy #constructive            | just put 0 wherever the contradiction happens                                               |
 | [Addition_on_a_Segment](Addition_on_a_Segment.md)           | 1200       | #greedy #math                    | Find for which case we wont be able to do whole length operation.                           |
+| [Fence](Fence.md)                                           | 1100       | #greedy #math                    | Find the the sequence of k length that has minimum sum                                      |
 
 
  
