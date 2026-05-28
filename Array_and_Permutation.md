@@ -12,7 +12,7 @@
 ---
 
 ## Classification
-- **Tags:** #math #greedy 
+- **Tags:** #math #implementation
 ---
 
 ## Key Insight
