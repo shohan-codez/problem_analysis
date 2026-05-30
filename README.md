@@ -29,6 +29,7 @@ Every problem analysis includes:
 | [Dice_Roll_Sequence](Dice_Roll_Sequence.md)                 | 1100       | #greedy #constructive            | just put 0 wherever the contradiction happens                                               |
 | [Addition_on_a_Segment](Addition_on_a_Segment.md)           | 1200       | #greedy #math                    | Find for which case we wont be able to do whole length operation.                           |
 | [Fence](Fence.md)                                           | 1100       | #greedy #math                    | Find the the sequence of k length that has minimum sum                                      |
+| [Building_An_Aquarium](Building_An_Aquarium.md)             | 1100       | #binary-search #sorting          | Find the height that can allocate that much water with binary search                        |
 
 
  
