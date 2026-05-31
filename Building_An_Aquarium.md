@@ -6,7 +6,7 @@
 | 📅 Date solved | 29-05-2026                                                |
 | ⏱ Time spent   | 2hr                                                       |
 | 🧠 How solved  | #editorial                                                |
-| ✅ Confidence   | Need another review                                       |
+| ✅ Confidence   | Good                                                      |
 | ❌ WA count     | 1                                                         |
 
 ---
@@ -93,6 +93,7 @@ int main(){
 ---
 
 ## Review Log
-| Date | Result |
-|------|--------|
-| 29-05-2026 | first solve |
+| Date           | Result      |
+| -------------- | ----------- |
+| 29-05-2026     | first solve |
+| [[2026-05-30]] | 1st review  |

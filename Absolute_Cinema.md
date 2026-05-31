@@ -41,7 +41,7 @@
 ---
 
 ## Dead Ends
-> wrong : finding highest value opposite of the max, because max wont always have the highest value. 
+> wrong : finding highest value opposite of the max, because max wont always have the highest opposite value. 
 > Because you dont need to put max in a to have max(a)+sumof(b).
 
 
@@ -54,6 +54,8 @@
 > so you are given two array of same size, array a and array b. you have to do maximize the 
 > max(a) + sumofb
 > for that you always take the highest of each index for b . thats how you optimize sumofb , and for max(a) find the highest value in a after swapping  . and that is your max(a); thats it. it could be solved more easily if you see what happens after you swap all the highest into b . You may think of keeping a max in a . but that doesnt have any diffrence , because you are doing max(a)+sumofb. so sumofb already will include that max(a) if you hadnt put that in a. 
+
+let me put it more simply , you are asked to maximize this max(a)+sumofb . what is the condition of maximising this ? you take the best of both of the array for sumofb , and after doing that , you take best of whats left for a. thats it , you are taking best from the whole 2 array. that way you maximize the wholesum. 
 
 
 
@@ -101,6 +103,7 @@ int main(){
 ---
 
 ## Review Log
-| Date | Result |
-|------|--------|
-| 24-05-2026 | first solve |
+| Date           | Result      |
+| -------------- | ----------- |
+| 24-05-2026     | first solve |
+| [[2026-05-30]] | 1st review  |

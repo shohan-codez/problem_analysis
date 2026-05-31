@@ -4,6 +4,8 @@ A collection of my competitive programming problem analyses.
 
 Each entry follows a structured format to build lasting mental mapping. 
 
+## Blackbox
+	Blackbox is a
 ## Format
 Every problem analysis includes:
 - **Key Insight** — the one sentence that unlocks the problem
@@ -30,6 +32,8 @@ Every problem analysis includes:
 | [Addition_on_a_Segment](Addition_on_a_Segment.md)           | 1200       | #greedy #math                    | Find for which case we wont be able to do whole length operation.                           |
 | [Fence](Fence.md)                                           | 1100       | #greedy #math                    | Find the the sequence of k length that has minimum sum                                      |
 | [Building_An_Aquarium](Building_An_Aquarium.md)             | 1100       | #binary-search #sorting          | Find the height that can allocate that much water with binary search                        |
+| [Lost_Civilization](Lost_Civilization.md)                   | 1300       | #two-pointer                     | Find parent children relation                                                               |
+|                                                             |            |                                  |                                                                                             |
 
 
  

@@ -17,7 +17,7 @@
 ---
 
 ## Key Insight
-> The only thing that would stop you from getting the longest length, is extra operations that we have to see how much we can waste on other . 
+> The only thing that would stop you from getting the longest length, is extra operations that we have to see how much we can waste on other . now how can we waste the max amount operation so we can at least have one operation to cover the whole length. 
 
 
 
@@ -52,7 +52,7 @@
 > as the max longest operation you can do is the length of the nonzero array of b. your target is to do this. but you are stuck with strict n use , sometimes n can be as big as the sum of the whole array , meaning you can only do operation on a single element each time. so n is the limiting factor on which depends if you would be able to do the longest operation or not . 
 > 
 > so how would we know whats the max length we can work on ? 
-> see, each x length of operation adds x to the sum . 
+> see, each x length of operation adds x to the sum . (to be honest this is not an insignificant insight)
 > as we have n operation , we need only 1 operation for whole sequence wise operation . so we have to minimize what n-1 operation contributes to the sum. thats why we chose their length as 1. so n-1 operation , would contribute n-1 to the sum , and we have rest of the sum to make with whole length wise operation . we dont need to know  if one length wise operation can cover up the whole gap . if they are bigger than length of the nonzero array , we know we can do a full length ass operation on that thats it. 
 
 
@@ -92,6 +92,7 @@ int main(){
 ---
 
 ## Review Log
-| Date | Result |
-|------|--------|
-| 28-05-2026 | first solve |
+| Date           | Result      |
+| -------------- | ----------- |
+| 28-05-2026     | first solve |
+| [[2026-05-30]] | 1st review  |

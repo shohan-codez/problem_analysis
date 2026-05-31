@@ -5,8 +5,8 @@
 | ⭐ Difficulty   | 1300                                                   |
 | 📅 Date solved | 27-05-2026                                             |
 | ⏱ Time spent   | 3hr                                                    |
-| 🧠 How solved  |  key insight by #AI                                    |
-| ✅ Confidence   | i should review it again in this month                 |
+| 🧠 How solved  | key insight by #AI                                     |
+| ✅ Confidence   | Reviewed                                               |
 | ❌ WA count     | 2                                                      |
 
 ---
@@ -16,7 +16,7 @@
 ---
 
 ## Key Insight
-> The numbers in side the portal will never come outside, and you can always rearrange them , number outside the portal, you can not rearrange them , only choose how much of that you want to print before the inner numbers to make it lexicographically smallest. 
+> The numbers inside the portal will never come outside, and you can always rearrange them , number outside the portal, you can not rearrange them ,[now you can only get this insight during contest by simulation on paper], only choose how much of that you want to print before the inner numbers to make it lexicographically smallest. 
 
 
 
@@ -108,6 +108,7 @@ int main(){
 ---
 
 ## Review Log
-| Date | Result |
-|------|--------|
-| 27-05-2026 | first solve |
+| Date           | Result      |
+| -------------- | ----------- |
+| 27-05-2026     | first solve |
+| [[2026-05-30]] | 1st review  |

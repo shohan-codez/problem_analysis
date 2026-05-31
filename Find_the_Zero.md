@@ -25,7 +25,7 @@
 ---
 
 ## Signal
-> As its a interactive problem , you have to funnel down your approach as such that , your wanted solution gets cornered each by each . Its like guessing someones mind with a binary search  approach that if this is not correct/incorrect then the solution is in this range.  
+> As its a interactive problem , you have to funnel down your approach as such that , your wanted solution gets cornered each by each . Its like guessing someones mind with a binary search  approach that if this is not correct/incorrect then the solution is in this range.  also using the pigeonhole principle . 
 
 
 
@@ -116,6 +116,7 @@ int main(){
 ---
 
 ## Review Log
-| Date | Result |
-|------|--------|
-| 25-05-2026 | first solve |
+| Date           | Result      |
+| -------------- | ----------- |
+| 25-05-2026     | first solve |
+| [[2026-05-30]] | 1st review  |

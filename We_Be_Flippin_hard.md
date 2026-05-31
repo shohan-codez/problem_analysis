@@ -48,7 +48,7 @@
 ---
 
 ## Explanation (Step 4)
-> This problem have the same constraints like the easy version of it. but this time you have to maximise the sum . now you can only choose an index which has positive value. and from the c1 we will negate all the previous values. so the sum eventually becomes this 
+> This problem have the same constraints like the easy version of it. but this time you have to maximise the sum . now you can only choose an index which has positive value. and from the c1 we will positivify all the previous values. so the sum eventually becomes this 
 > 
 > prefix(abs(1 to x-1)) - x + suffixof(x+1 to n) 
 > because after the operation this actually becomes the above equation . so now we have to find for which x, we get the maxsum . if we dont get any position it means there is all positive ,or there is all negative. 
@@ -127,6 +127,7 @@ int main(){
 ---
 
 ## Review Log
-| Date | Result |
-|------|--------|
-| 24-05-2026 | first solve |
+| Date           | Result      |
+| -------------- | ----------- |
+| 24-05-2026     | first solve |
+| [[2026-05-30]] | 1st solve   |

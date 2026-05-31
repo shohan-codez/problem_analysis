@@ -85,6 +85,7 @@ int main(){
 ---
 
 ## Review Log
-| Date | Result |
-|------|--------|
-| 28-05-2026 | first solve |
+| Date           | Result      |
+| -------------- | ----------- |
+| 28-05-2026     | first solve |
+| [[2026-05-30]] | 1st review  |

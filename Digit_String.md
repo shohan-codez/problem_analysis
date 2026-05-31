@@ -1,13 +1,13 @@
 ## Meta
-| Field          | Value                                                          |
-| -------------- | -------------------------------------------------------------- |
-| 🔗 Link        | [2230B](https://codeforces.com/contest/2230/problem/B)         |
-| ⭐ Difficulty   | Not rated yet                                                  |
-| 📅 Date solved | 25-05-2026                                                     |
-| ⏱ Time spent   | 2 hr                                                           |
-| 🧠 How solved  | #editorial but my approach was satisfying 80% of the problem   |
-| ✅ Confidence   | Yes I get why the solution work, but i would love to review it |
-| ❌ WA count     | 3                                                              |
+| Field          | Value                                                        |
+| -------------- | ------------------------------------------------------------ |
+| 🔗 Link        | [2230B](https://codeforces.com/contest/2230/problem/B)       |
+| ⭐ Difficulty   | 1000                                                         |
+| 📅 Date solved | 25-05-2026                                                   |
+| ⏱ Time spent   | 2 hr                                                         |
+| 🧠 How solved  | #editorial but my approach was satisfying 80% of the problem |
+| ✅ Confidence   | Reviewed                                                     |
+| ❌ WA count     | 3                                                            |
 
 ---
 
@@ -17,7 +17,7 @@
 ---
 
 ## Key Insight
-> you want to keep the sequence as untouched as possible , find out whats that longest sequence. what would be the longest sequence? the longest sequence would be the one , that has the most even in the left and most odd in the left. 
+> you want to keep the sequence as untouched as possible , find out whats that longest sequence. what would be the longest beautiful sequence? the longest beautiful sequence would be the one , that has the most even in the left and most odd in the right. 
 
 
 
@@ -105,6 +105,7 @@ int main(){
 ---
 
 ## Review Log
-| Date | Result |
-|------|--------|
-| 25-05-2026 | first solve |
+| Date           | Result      |
+| -------------- | ----------- |
+| 25-05-2026     | first solve |
+| [[2026-05-30]] | 1st review  |

@@ -20,7 +20,7 @@ This is maybe my first 1400 solve , on my own , and without any wa. I guess meta
 ---
 
 ## Key Insight
-> After sorting the array , you have to check for each element if it has all the multiple from the number itself to k . if not found you stop and print -1, other wise you print the element you are working with , and remove all the multiple of it. 
+> After sorting the array , you have to check for each element if it has all the multiple from the number itself to k . if not found, you stop and print -1, other wise you print the element you are working with , and remove all the multiple of it. 
 
 
 
@@ -125,6 +125,7 @@ int main(){
 ---
 
 ## Review Log
-| Date | Result |
-|------|--------|
-| 27-05-2026 | first solve |
+| Date           | Result      |
+| -------------- | ----------- |
+| 27-05-2026     | first solve |
+| [[2026-05-30]] | 1st review  |
