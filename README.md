@@ -4,8 +4,13 @@ A collection of my competitive programming problem analyses.
 
 Each entry follows a structured format to build lasting mental mapping. 
 
-## Blackbox
-	Blackbox is a
+## [Blackbox](Blackbox.md)
+		Blackbox is an abstract tool where you pass your problem,and the solution
+		comes as an output. Its an way to step away from a problem emotionally
+		and apply a set of instruction to break down the problem and solve 
+		algorithmically.Blackbox is a personal thing, you can take inspiration 
+		from this one, which i currently use, and make your own version.
+
 ## Format
 Every problem analysis includes:
 - **Key Insight** — the one sentence that unlocks the problem
