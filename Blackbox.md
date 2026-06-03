@@ -13,7 +13,7 @@
 - Find if its a dp problem or not. 
 - Dont try to simulate a problem if it doesnt require you to , by just thinking about whats the minimum information i need to know to take a decision . 
 ## Phase 3 
-- Never trust your assumption (talking from experience)
+- Never trust your assumption (talking from personal experience)
 - prune your ideas with worst testcases within the rules of the game.
 - Find for what testcase your logic will fail horribly 
 ## phase 4 

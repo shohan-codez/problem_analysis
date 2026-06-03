@@ -11,6 +11,8 @@ Each entry follows a structured format to build lasting mental mapping.
 		algorithmically.Blackbox is a personal thing, you can take inspiration 
 		from this one, which i currently use, and make your own version.
 
+## [Problems i wanna try later so badly](i_wanna_try_later.md)
+
 ## Format
 Every problem analysis includes:
 - **Key Insight** — the one sentence that unlocks the problem
