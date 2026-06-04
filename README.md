@@ -40,7 +40,7 @@ Every problem analysis includes:
 | [Fence](Fence.md)                                           | 1100       | #greedy #math                    | Find the the sequence of k length that has minimum sum                                      |
 | [Building_An_Aquarium](Building_An_Aquarium.md)             | 1100       | #binary-search #sorting          | Find the height that can allocate that much water with binary search                        |
 | [Lost_Civilization](Lost_Civilization.md)                   | 1300       | #two-pointer                     | Find parent children relation                                                               |
-|                                                             |            |                                  |                                                                                             |
+| [Palindromex](Palindromex.md)                               | 1200       | #brute-force                     | check mex of 3 palindrome with 0 .                                                          |
 
 
  
